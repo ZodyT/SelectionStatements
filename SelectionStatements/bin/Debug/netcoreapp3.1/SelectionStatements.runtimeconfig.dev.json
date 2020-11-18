@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\TorZo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\TorZo\\.nuget\\packages"
+    ]
+  }
+}
